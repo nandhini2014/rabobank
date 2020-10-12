@@ -34,6 +34,8 @@ Start Balance  :  The starting balance in Euros
 Mutation       :  Either and addition (+) or a deducation (-)
 Description    :  Free text
 End Balance    :  The end balance in Euros
-  
+ 
+records.xml 
+records.csv
   
   
